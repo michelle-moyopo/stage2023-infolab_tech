@@ -1,0 +1,5 @@
+Use of Python OR in match statement
+The pipe operator for the match statement. 
+Match statements were meant to be for only matching the patterns and specific keywords or parameters. 
+But you can use pipe operator for or statement in match statement. 
+We simplify the above code with the pipe operator. 
